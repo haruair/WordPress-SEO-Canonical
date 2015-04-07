@@ -1,7 +1,7 @@
 <?php
 /* 
 Plugin Name: WordPress SEO Canonical For FeedWordPress
-Plugin URI: https://github.com/haruair/WordPress-SEO-Canonical
+Plugin URI: https://github.com/weirdmeetup/WordPress-SEO-Canonical
 Description: Override Canoncial URL Meta Tag for FeedWordPress. This plugin required WordPress SEO Plugin.
 Version: 0.1
 Author: Edward Kim <onward.edkim@gmail.com>
